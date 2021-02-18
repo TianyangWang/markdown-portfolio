@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Fruit
+  * Apple :apple:
+  * Pear :pear:
+* Meat
+  * Beef :cow:
